@@ -1,1 +1,1 @@
-# Applied-Science-Bootcamp
+# Applied-Data-Science-Bootcamp
